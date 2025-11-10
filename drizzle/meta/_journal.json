@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762737261192,
+      "tag": "0000_hesitant_wilson_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762737412531,
+      "tag": "0001_magical_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762738412218,
+      "tag": "0002_parallel_glorian",
+      "breakpoints": true
+    }
+  ]
+}
